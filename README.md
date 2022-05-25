@@ -1,2 +1,2 @@
 # First
-Contains pre-exercise from Beyond Paper
+Contains challenges from Beyond Paper
